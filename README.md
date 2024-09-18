@@ -1,5 +1,5 @@
 # @Aptos
-#### Video Demo:  https://www.youtube.com/watch?v=a3uxnCIK95c
+
 #### Description:
 This project was written in swift for mobile or ipad use, this app is intended to help any property owners manage their assets (builinds, aparments, houses). Assets information get stored in a database where
 will be available for future references.
